@@ -1,8 +1,8 @@
 [
   {
-    "repository": "CyanogenMod/android_device_motorola_qcom-common",
+    "repository": "ValidusAOSP/android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "branch": "cm-11.0"
+    "branch": "vaosp"
   },
   {
     "repository": "CyanogenMod/android_kernel_motorola_msm8960dt-common",
