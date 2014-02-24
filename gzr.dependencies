@@ -15,9 +15,9 @@
     "branch": "kk4.4"
   },
   {
-    "repository": "SlimRoms/vendor_motorola",
+    "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch": "kk4.4"
+    "branch": "cm-11.0"
   },
   {
     "repository": "SlimRoms/hardware_qcom_media-caf",
