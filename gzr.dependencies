@@ -30,7 +30,7 @@
     "branch": "kk4.4"
   },
   {
-    "repository": "CyanogenMod/android_external_f2fs-tools",
+    "repository": "Cyanogenmod/android_external_f2fs-tools",
     "target_path": "external/f2fs-tools",
     "branch": "cm-11.0"
   }
