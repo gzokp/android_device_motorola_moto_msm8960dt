@@ -1,36 +1,31 @@
 [
   {
-    "repository": "SlimRoms/device_motorola_qcom-common",
+    "repository": "ValidusAOSP/android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "branch": "kk4.4"
+    "branch": "vaosp"
   },
   {
-    "repository": "SlimRoms/device_motorola_msm8960dt-common",
-    "target_path": "device/motorola/msm8960dt-common",
-    "branch": "kk4.4"
-  },
-  {
-    "repository": "SlimRoms/kernel_motorola_msm8960dt-common",
+    "repository": "CyanogenMod/android_kernel_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
-    "branch": "kk4.4"
+    "branch": "cm-11.0"
   },
   {
-    "repository": "SlimRoms/vendor_motorola",
+    "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch": "kk4.4"
+    "branch": "cm-11.0"
   },
   {
-    "repository": "SlimRoms/hardware_qcom_media-caf",
+    "repository": "CyanogenMod/android_hardware_qcom_media-caf",
     "target_path": "hardware/qcom/media-caf",
-    "branch": "kk4.4"
+    "branch": "cm-11.0"
   },
   {
-    "repository": "SlimRoms/hardware_qcom_display-caf",
+    "repository": "CyanogenMod/android_hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
-    "branch": "kk4.4"
+    "branch": "cm-11.0"
   },
   {
-    "repository": "Cyanogenmod/android_external_f2fs-tools",
+    "repository": "CyanogenMod/android_external_f2fs-tools",
     "target_path": "external/f2fs-tools",
     "branch": "cm-11.0"
   }
