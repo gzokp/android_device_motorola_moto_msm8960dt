@@ -5,9 +5,9 @@
     "branch": "vaosp"
   },
   {
-    "repository": "CyanogenMod/android_kernel_msm8960dt-common",
+    "repository": "ValidusAOSP/moto_x",
     "target_path": "kernel/motorola/msm8960dt-common",
-    "branch": "cm-11.0"
+    "branch": "vaosp"
   },
   {
     "repository": "TheMuppets/proprietary_vendor_motorola",
