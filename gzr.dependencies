@@ -15,12 +15,12 @@
     "branch": "cm-11.0"
   },
   {
-    "repository": "SlimRoms/android_hardware_qcom_media-caf",
+    "repository": "SlimRoms/hardware_qcom_media-caf",
     "target_path": "hardware/qcom/media-caf",
     "branch": "kk4.4"
   },
   {
-    "repository": "SlimRoms/android_hardware_qcom_display-caf",
+    "repository": "SlimRoms/hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
     "branch": "kk4.4"
   },
