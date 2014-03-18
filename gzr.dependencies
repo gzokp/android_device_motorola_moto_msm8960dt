@@ -5,9 +5,9 @@
     "branch": "vaosp"
   },
   {
-    "repository": "validusspareparts/android_kernel_motorola_msm8960dt-common",
+    "repository": "team-ose/android_kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
-    "branch": "cm-11.0"
+    "branch": "ose"
   },
   {
     "repository": "TheMuppets/proprietary_vendor_motorola",
