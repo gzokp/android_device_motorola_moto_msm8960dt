@@ -5,7 +5,7 @@
     "branch": "vaosp"
   },
   {
-    "repository": "team-ose/android_kernel_motorola_msm8960dt-common",
+    "repository": "CyanogenMod/android_kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
     "branch": "cm-11.0"
   },
