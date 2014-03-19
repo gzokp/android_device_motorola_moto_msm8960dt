@@ -1,37 +1,37 @@
 [
   {
     "remote": "cm",
-    "repository": "android_device_qcom_common",
+    "repository": "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision": "cm-11.0"
   },
   {
     "remote": "cm",
-    "repository": "android_device_motorola_qcom-common",
+    "repository": "CyanogenMod/android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
     "revision": "cm-11.0"
   },
   {
     "remote": "cm",
-    "repository": "android_kernel_motorola_msm8960dt-common",
+    "repository": "CyanogenMod/android_kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
     "revision": "cm-11.0"
   },
   {
     "remote": "cm",
-    "repository": "android_hardware_qcom_audio-caf",
+    "repository": "CyanogenMod/android_hardware_qcom_audio-caf",
     "target_path": "hardware/qcom/audio-caf",
     "revision": "cm-11.0"
   },
   {
     "remote": "cm",
-    "repository": "android_hardware_qcom_display-caf",
+    "repository": "CyanogenMod/android_hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
     "revision": "cm-11.0"
   },
   {
     "remote": "cm",
-    "repository": "android_hardware_qcom_media-caf",
+    "repository": "CyanogenMod/android_hardware_qcom_media-caf",
     "target_path": "hardware/qcom/media-caf",
     "revision": "cm-11.0"
   },
@@ -43,7 +43,7 @@
   },
   {
     "remote": "cm",
-    "repository": "android_external_f2fs-tools",
+    "repository": "CyanogenMod/android_external_f2fs-tools",
     "target_path": "external/f2fs-tools",
     "revision": "cm-11.0"
   }
