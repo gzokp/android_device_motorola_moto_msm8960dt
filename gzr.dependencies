@@ -1,32 +1,50 @@
 [
   {
-    "repository": "ValidusAOSP/android_device_motorola_qcom-common",
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "branch": "vaosp"
+    "revision": "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/android_kernel_motorola_msm8960dt-common",
+    "remote": "cm",
+    "repository": "android_kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
-    "branch": "cm-11.0"
+    "revision": "cm-11.0"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_motorola",
-    "target_path": "vendor/motorola",
-    "branch": "cm-11.0"
+    "remote": "cm",
+    "repository": "android_hardware_qcom_audio-caf",
+    "target_path": "hardware/qcom/audio-caf",
+    "revision": "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/android_hardware_qcom_media-caf",
-    "target_path": "hardware/qcom/media-caf",
-    "branch": "cm-11.0"
-  },
-  {
-    "repository": "CyanogenMod/android_hardware_qcom_display-caf",
+    "remote": "cm",
+    "repository": "android_hardware_qcom_display-caf",
     "target_path": "hardware/qcom/display-caf",
-    "branch": "cm-11.0"
+    "revision": "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/android_external_f2fs-tools",
+    "remote": "cm",
+    "repository": "android_hardware_qcom_media-caf",
+    "target_path": "hardware/qcom/media-caf",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "tm",
+    "repository": "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_external_f2fs-tools",
     "target_path": "external/f2fs-tools",
-    "branch": "cm-11.0"
+    "revision": "cm-11.0"
   }
 ]
